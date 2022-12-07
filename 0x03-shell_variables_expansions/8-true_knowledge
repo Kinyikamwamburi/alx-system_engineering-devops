@@ -1,3 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE=300
 expr $TRUEKNOWLEDGE + 128
